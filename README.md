@@ -42,14 +42,14 @@ The goal is to create a **comprehensive Bank Loan Report** that:
 ## 📚 Dataset Terminologies
 A dedicated document explains all dataset fields — such as Loan ID, Loan Status, Purpose, Grade, Term, Annual Income, and DTI — to ensure clarity while building KPIs.
 
-📄 [Terminologies Explained in Bank Loan Project's Dataset](./https://drive.google.com/file/d/1yQRrjlv_UVth2iyHErhdqUiGS7qr8HYt/view?usp=sharing)
+📄 [Terminologies Explained in Bank Loan Project's Dataset](https://drive.google.com/file/d/1yQRrjlv_UVth2iyHErhdqUiGS7qr8HYt/view?usp=sharing)
 
 ---
 
 ## 🗄 SQL Scripts
 The SQL files used for data preparation:
-- 📜 [Overview Dashboard SQL](./https://github.com/zodrickjohn/Bank-Loan-Report/blob/main/bank%20loan%20%20-%20overview%20dashboard.sql)  
-- 📜 [Summary Dashboard SQL](./https://github.com/zodrickjohn/Bank-Loan-Report/blob/main/bank%20loan%20%20-%20summary%20dashboard.sql)
+- 📜 [Overview Dashboard SQL](https://github.com/zodrickjohn/Bank-Loan-Report/blob/main/bank%20loan%20%20-%20overview%20dashboard.sql)  
+- 📜 [Summary Dashboard SQL](https://github.com/zodrickjohn/Bank-Loan-Report/blob/main/bank%20loan%20%20-%20summary%20dashboard.sql)
 
 ---
 
