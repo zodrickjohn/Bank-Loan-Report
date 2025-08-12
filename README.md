@@ -17,8 +17,8 @@ Before building the final dashboards in Excel, I first created **SQL-based queri
 **Workflow Steps:**
 1. Imported the **Bank Loan Database** into SQL Server.
 2. Wrote SQL queries to generate metrics and breakdowns for both dashboards.
-3. Exported the query results into **Excel**.
-4. Built final dashboards in Excel for visualization.
+3. Exported the bank loan database into **Excel**.
+4. Built final dashboards in Excel for visualization and match their results with sql query results.
 
 This approach ensured:
 - **Accuracy** of aggregated data before visualization.
@@ -100,7 +100,6 @@ Shows:
 ---
 
 ## 📬 Author
-**Zodrick John**  
-UE223115
+**Zodrick John | UE223115 | CSE 4th year | UIET, Panjab University** 
 
 ---
