@@ -35,7 +35,7 @@ The goal is to create a **comprehensive Bank Loan Report** that:
 - Segregates loans into Good Loans and Bad Loans.
 - Provides visual insights using multiple chart types.
 
-📄 [Bank Loan Project Problem Statement & Dashboards Overview](./https://drive.google.com/file/d/1Lyw6vaCC73AOuA_bLL3jmHMQDnnXMxLO/view?usp=sharing)
+📄 [Bank Loan Project Problem Statement & Dashboards Overview](https://drive.google.com/file/d/1Lyw6vaCC73AOuA_bLL3jmHMQDnnXMxLO/view?usp=sharing)
 
 ---
 
